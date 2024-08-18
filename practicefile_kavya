@@ -1,0 +1,6 @@
+class Siblings{
+String1={kumar};
+String2={kavya};
+System.out.println(String1+ String2)+ "are siblings(advance happy Rakshabandan).";
+output is: kumar kavya are siblings (advance happy Rakshabandan).
+
